@@ -222,4 +222,4 @@ Write a function that finds the uncle of a node:
 ## Authors:
 
 #### [Eduardo Zúñiga](https://github.com/edwardzuniga/ "Eduardo Zúñiga")
-#### [Yasmin Giraldo](https://github.com/Yasgc24 / "Yasmin Giraldo")
+#### [Yasmin Giraldo](https://github.com/Yasgc24/ "Yasmin Giraldo")
